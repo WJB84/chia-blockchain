@@ -270,7 +270,7 @@ full_node:
 
   # How often to initiate outbound connections to other full nodes.
   peer_connect_interval: 30
-  # Accept peers until this number of connections
+  
   target_peer_count: 80
   # Initiate outbound connections until this number is hit.
   target_outbound_peer_count: 8
